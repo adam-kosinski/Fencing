@@ -1,0 +1,1 @@
+This is a project to create a two-player 3D fencing game, using Node.js and the libraries three.js and physijs.
